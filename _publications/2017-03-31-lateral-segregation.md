@@ -1,7 +1,7 @@
 ---
 title: "1. Lateral segregation of photosystem I in cyanobacterial thylakoids"
 collection: publications
-permalink: /publication/2017-03-31-paper-title-number-1
+permalink: /publication/2017-03-31-lateral-segregation
 date: 2017-03-31
 venue: 'The Plant Cell'
 paperurl: 'https://academic.oup.com/plcell/article/29/5/1119/6099297'
