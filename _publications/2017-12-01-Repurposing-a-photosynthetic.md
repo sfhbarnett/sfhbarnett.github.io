@@ -2,7 +2,6 @@
 title: "Repurposing a photosynthetic antenna protein as a super-resolution microscopy label"
 collection: publications
 permalink: /publication/2017-12-01-Repurposing-a-photosynthetic
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2017-12-01
 venue: 'Scientific Reports'
 paperurl: 'https://www.nature.com/articles/s41598-017-16834-z'

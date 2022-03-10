@@ -1,5 +1,5 @@
 ---
-title: "1. Lateral segregation of photosystem I in cyanobacterial thylakoids"
+title: "Lateral segregation of photosystem I in cyanobacterial thylakoids"
 collection: publications
 permalink: /publication/2017-03-31-lateral-segregation
 date: 2017-03-31

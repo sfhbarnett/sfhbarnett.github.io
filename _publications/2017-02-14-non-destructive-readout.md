@@ -1,5 +1,5 @@
 ---
-title: "2. A novel application of non-destructive readout technology to localisation microscopy"
+title: "A novel application of non-destructive readout technology to localisation microscopy"
 collection: publications
 permalink: /publication/2017-02-14-non-destructive-readout
 date: 2017-02-14
