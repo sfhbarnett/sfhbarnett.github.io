@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "I am a microscopist using light to control cellular behaviour"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
