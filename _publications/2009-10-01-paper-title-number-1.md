@@ -5,11 +5,13 @@ permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2017-10-01
 venue: 'The Plant Cell'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'https://academic.oup.com/plcell/article/29/5/1119/6099297'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This work highlighted the native organisation of PSI inside the cyanobacterial thylakoid membrane. My contribution was to use Hyperspectral Confocal Microscopy in collaboration with the Jerilyn Timlin at Sandia National Laboratories to resolve the overlapping fluorescent structures. I also peformed super-resolution SIM to more accurately observe the architecture below the difraction limit. 
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://academic.oup.com/plcell/article/29/5/1119/6099297)
+
+Recommended citation: MacGregor-Chatwin, C., Sener, M., Barnett, S.F.H., Hitchcock, A., Barnhart-Dailey, M.C., Maghlaoui, K., Barber, J., Timlin, J.A., Schulten, K., Hunter, C.N. (2017). Lateral segregation of photosystem I in cyanobacterial thylakoids. <b>The Plant Cell</b>. 29, 1119-1136.
 
 Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
